@@ -61,7 +61,7 @@ MediConnect/
 │   └── main.tsx
 ├── public/
 ├── package.json
-└── README.md**
+└── README.md
 ```
 **🙌 Contributing**
 
