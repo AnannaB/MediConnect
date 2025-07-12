@@ -45,8 +45,13 @@ npm run dev
 
  **📸 Screenshots**
 
-**📁 Folder Structure (Optional)**
 
+https://github.com/user-attachments/assets/3ae8dce9-acc5-436d-8a6f-f834517164de
+
+
+
+**📁 Folder Structure (Optional)**
+```bash
 MediConnect/
 ├── src/
 │   ├── components/
@@ -56,10 +61,12 @@ MediConnect/
 │   └── main.tsx
 ├── public/
 ├── package.json
-└── README.md
-
+└── README.md**
+```
 **🙌 Contributing**
+
 Pull requests are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
 
 **📄 License**
+
 This project is licensed under the MIT License.
